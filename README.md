@@ -1,21 +1,14 @@
-![OFS Logo](https://raw.githubusercontent.com/Organic-Food-Store/ofs-client/master/images/logo.png)
-
-# OFS Group 2 README
-
-## Made By: Oindril, Sasha, Adam & Marlowe
-
----
-
-<h1 align="center">OFS - Client</h1>
-
 <p align="center">
   <a href="https://organic-food-store.firebaseapp.com" target="_blank">
     <img src="https://raw.githubusercontent.com/Organic-Food-Store/ofs-client/master/images/logo.png" width="50%">
   </a>
 </p>
 
-<p align="center">The Independent Polymer Website hosted at <a href="https://organic-food-store.firebaseapp.com" target="_blank">Firebase</a>.</p>
+<h1 align="center">OFS Group 2 README</h1>
 
+<h2 align="center">Made By:  <a href="https://odutta.me" target="_blank">Oindril</a>, Sasha, Adam & Marlowe.</h2>
+
+---
 
 ### We have two main components, a server and a web/mobile client.
 
