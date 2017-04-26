@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">Made By:  <a href="https://odutta.me" target="_blank">Oindril</a>, Sasha, Adam & Marlowe.</p>
+<p align="center">Made By:  <a href="https://odutta.me" target="_blank">Oindril</a>, Alexander, Adam & Marlowe.</p>
 
 ---
 
