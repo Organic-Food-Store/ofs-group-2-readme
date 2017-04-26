@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://organic-food-store.firebaseapp.com" target="_blank">
-    <img src="/images/logo.png" width="50%">
+    <img src="https://raw.githubusercontent.com/Organic-Food-Store/ofs-client/master/images/logo.png" width="50%">
   </a>
 </p>
 
